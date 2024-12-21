@@ -1,2 +1,2 @@
 # vehiclesaleprice-prediction
-Predict price of vehicle sale price 
+Predict price of vehicle sale
